@@ -1,0 +1,16 @@
+{
+    "swiperlist" : [
+        {
+            "id" : "1",
+            "url" : "http://localhost:8008/swiper-1.png"
+        },
+        {
+            "id" : "2",
+            "url" : "http://localhost:8008/swiper-2.jpeg"
+        },
+        {
+            "id" : "3",
+            "url" : "http://localhost:8008/swiper-3.jpeg"
+        }
+    ]
+}

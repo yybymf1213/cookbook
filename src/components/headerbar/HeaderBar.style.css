@@ -1,0 +1,11 @@
+.headerbar{
+    line-height:.9rem;
+    background:#ee7430;
+    text-align:center;
+    font-size:0.45rem;
+    color:#fff;
+    font-weight:300;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
